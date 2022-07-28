@@ -1,4 +1,9 @@
 # DigiDorffinal
+
+In diesem Projekt wird ein reales Problem aus dem Bereich mGovernment mit dem Einsatz von Software-Engineering und Projektmanagement gelöst. Hierbei wird eine prototypische Lösung in Form einer App entwickelt. 
+Die App soll die Kommunikation und Verbindung zwischen den Menschen in einem Dorf verbessern. Hierbei sollen lokale Veranstaltungen, Informationen und Angebote unkompliziert und schnell digital verbreitet, aber auch gesucht werden können. 
+
+# Installation
 Installationsanleitung:
 
 Um die App starten zu können sind einige Schritte und Installationen notwendig, da die Datei sonst für GitHUB zu groß gewesen wäre.
