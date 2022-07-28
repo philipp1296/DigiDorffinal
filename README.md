@@ -11,20 +11,20 @@ Um die App starten zu können sind einige Schritte und Installationen notwendig,
 6. Alle Daten aus dem heruntergeladenen Ordner Frontend in den zuvor erstellten Projektordner DigiDorf ziehen und alles vorhandene ersetzen.
 7. Über das Terminal in VS im Projektordner folgende Installationen vornehmen (einzeln installieren):
 
-expo install expo-image-picker
-expo install react-native-gesture-handler
-npm install -S yup
-npm install formik --save
-navigation:
-	npm install @react-navigation/native
-	expo install react-native-screens react-native-safe-area-context
-	npm install @react-navigation/native-stack
-npm install @react-navigation/bottom-tabs
-npm i apisauce --save
-npm install react-native-progress --save
-expo install react-native-svg
-npm i jwt-decode
-npm install react-native-secure-storage --save
+expo install expo-image-picker <br>
+expo install react-native-gesture-handler <br>
+npm install -S yup <br>
+npm install formik --save <br>
+navigation: <br>
+	npm install @react-navigation/native <br>
+	expo install react-native-screens react-native-safe-area-context <br>
+	npm install @react-navigation/native-stack <br>
+npm install @react-navigation/bottom-tabs <br>
+npm i apisauce --save <br>
+npm install react-native-progress --save <br>
+expo install react-native-svg <br>
+npm i jwt-decode <br>
+npm install react-native-secure-storage --save <br>
 
 8. Anschließend sowohl den Backend-Ordner als auch den DigiDorf-Ordner in einem spereraten VS Fenster öffnen.
 9. Das Backend und das DigiDorf via "npm start" starten.
